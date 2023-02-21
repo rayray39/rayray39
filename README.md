@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayray39
 - 👀 I’m interested in Mechanical Engineering and Software for robotics.
-- 🌱 I’m currently learning Fluid Mechanics, Strength of Materials, Introduction to Machine Learning, and how to use different Python libraries.
+- 🌱 I’m an IDP student and taking a Minor in Computer Science.
 - 💞️ I’m looking to collaborate on any software and programming projects
 - 📫 How to reach me ...
 
