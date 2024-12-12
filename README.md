@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @rayray39
-- 👀 I’m interested in Robotics.
-- 🌱 I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Computer Science.
-- I am currently pursuing my interest in Robotics and Web Development!
-- 📫 How to reach me ...
+# Hey there 👋, I'm Rayner 🤠
+
+I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Computer Science. I am currently pursuing my interest in Robotics🤖 and Web Development💻!
+
+I'm comfortable working with,  
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,django,matlab,js,html,css,git,github&theme=dark)](https://skillicons.dev)
+
+I'm currently learning,
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,npm&theme=dark)](https://skillicons.dev)
+
+The tools I use include,
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,notion&theme=dark)](https://skillicons.dev)
 
 <!---
 rayray39/rayray39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
