@@ -3,7 +3,8 @@
 I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Computer Science. I am currently pursuing my interest in Robotics🤖 and Web Development💻!
 
 ### Projects  
-[Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)
+[Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)  
+[SocialBook](https://github.com/AY2425S1-CS2103-F10-2/tp/releases/tag/v1.6) | [Repository](https://github.com/AY2425S1-CS2103-F10-2/tp) | [User Guide](https://ay2425s1-cs2103-f10-2.github.io/tp/)
 
 ---
 I'm comfortable working with,  
