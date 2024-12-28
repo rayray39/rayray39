@@ -13,11 +13,11 @@ I'm comfortable working with,
 
 I'm currently learning,
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,npm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,npm,express&theme=dark)](https://skillicons.dev)
 
 The tools I use include,
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,notion,latex&theme=dark)](https://skillicons.dev)
 
 <!---
 rayray39/rayray39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
