@@ -4,16 +4,17 @@ I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Compute
 
 ### Projects  
 [Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)  
-[SocialBook](https://github.com/AY2425S1-CS2103-F10-2/tp/releases/tag/v1.6) | [Repository](https://github.com/AY2425S1-CS2103-F10-2/tp) | [User Guide](https://ay2425s1-cs2103-f10-2.github.io/tp/)
+[SocialBook](https://github.com/AY2425S1-CS2103-F10-2/tp/releases/tag/v1.6) | [Repository](https://github.com/AY2425S1-CS2103-F10-2/tp) | [User Guide](https://ay2425s1-cs2103-f10-2.github.io/tp/)  
+Library Management System, NOVELLY | [Repository](https://github.com/rayray39/novelly) | [User Guide](https://rayray39.github.io/novelly/)
 
 ---
 I'm comfortable working with,  
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,django,matlab,js,html,css,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,express,python,django,matlab,git,github&theme=dark)](https://skillicons.dev)
 
 I'm currently learning,
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,npm,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm,tailwind&theme=dark)](https://skillicons.dev)
 
 The tools I use include,
 
