@@ -14,7 +14,7 @@ I'm comfortable working with,
 
 I'm currently learning,
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm,bootstrap&theme=dark)](https://skillicons.dev)
 
 The tools I use include,
 
