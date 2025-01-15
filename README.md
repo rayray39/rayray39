@@ -5,7 +5,8 @@ I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Compute
 ### Projects  
 [Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)  
 [SocialBook](https://github.com/AY2425S1-CS2103-F10-2/tp/releases/tag/v1.6) | [Repository](https://github.com/AY2425S1-CS2103-F10-2/tp) | [User Guide](https://ay2425s1-cs2103-f10-2.github.io/tp/)  
-Library Management System, NOVELLY | [Repository](https://github.com/rayray39/novelly) | [User Guide](https://rayray39.github.io/novelly/)
+Library Management System, NOVELLY 📚 | [Repository](https://github.com/rayray39/novelly) | [User Guide](https://rayray39.github.io/novelly/)  
+Financial Management System, Bred 🍞 | [Repository](https://github.com/rayray39/bred) | [User Guide](https://rayray39.github.io/bred/)
 
 ---
 I'm comfortable working with,  
