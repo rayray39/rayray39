@@ -11,11 +11,11 @@ Financial Management System, Bred 🍞 | [Repository](https://github.com/rayray3
 ---
 I'm comfortable working with,  
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,express,python,django,matlab,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,express,python,django,materialui,bootstrap,matlab,git,github&theme=dark)](https://skillicons.dev)
 
 I'm currently learning,
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm,sqlite,vercel&theme=dark)](https://skillicons.dev)
 
 The tools I use include,
 
