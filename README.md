@@ -1,6 +1,8 @@
 # Hey there 👋, I'm Rayner 🤠
 
-I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Computer Science. I am currently pursuing my interest in Robotics🤖 and Web Development💻!
+I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Computer Science. I am currently pursuing my interest in Robotics🤖 and Web Development💻!  
+
+Visit my portfolio website [here!](https://rayray39.vercel.app)
 
 ### Projects  
 [Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)  
