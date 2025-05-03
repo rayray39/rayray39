@@ -2,7 +2,7 @@
 
 I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Computer Science. I am currently pursuing my interest in Robotics🤖 and Web Development💻!  
 
-### Visit my portfolio website [here!](https://rayray39.vercel.app)
+### ✨ Visit my portfolio website [here!](https://rayray39.vercel.app)
 
 ### Projects  
 [Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)  
@@ -19,11 +19,11 @@ I'm comfortable working with,
 
 I'm currently learning,
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,cs,dotnet,nodejs,npm,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,cs,dotnet,nodejs,sqlite,threejs&theme=dark)](https://skillicons.dev)
 
 The tools I use include,
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,notion,latex,vite,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,notion,latex,vite,vercel,npm&theme=dark)](https://skillicons.dev)
 
 <!---
 rayray39/rayray39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
