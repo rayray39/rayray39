@@ -5,6 +5,7 @@ I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Compute
 ### ✨ Visit my portfolio website [here!](https://rayray39.vercel.app)
 
 ### Full-Stack Projects  
+AI-powered git commit message generator - code smarter, commit better, visit the website [here](https://charkwayteow.vercel.app/) | [Repository](https://github.com/rayray39/char-kway-teow)  
 Track and analyze hydration levels for your favourite drinks using Hydrate, visit the website [here](https://hydrate-me.vercel.app/) | [Repository](https://github.com/rayray39/hydrate)  
 
 [Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)  
@@ -19,15 +20,15 @@ Financial Management System with ChartJS, Bred 🍞 | [Repository](https://githu
 ---
 I'm comfortable working with,  
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,express,python,django,materialui,bootstrap,matlab,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,typescript,html,css,react,express,postgres,python,django,matlab,git,github,ubuntu,bash&theme=dark)](https://skillicons.dev)
 
 I'm currently learning,
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,cs,dotnet,nodejs,sqlite,threejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,elasticsearch,cs,dotnet,nodejs&theme=dark)](https://skillicons.dev)
 
 The tools I use include,
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,notion,latex,vite,vercel,npm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,latex,vite,vercel,npm&theme=dark)](https://skillicons.dev)
 
 <!---
 rayray39/rayray39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
