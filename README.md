@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Rayner 🤠
 
-I’m a Mech Eng (Robotics Specialisation) student and taking a Minor in Computer Science. I am currently pursuing my interest in Robotics🤖 and Web Development💻!  
+I'm a junior software developer currently working in the industry. I am interested in Web Development💻, Data Engineering📈, and AI🤖.  
 
 ### ✨ Visit my portfolio website [here!](https://rayray39.vercel.app)
 
@@ -20,11 +20,11 @@ Financial Management System with ChartJS, Bred 🍞 | [Repository](https://githu
 ---
 I'm comfortable working with,  
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,typescript,html,css,react,express,postgres,python,django,matlab,git,github,ubuntu,bash&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,ollama,huggingface,js,ts,react,express,python,django,postgresql,elasticsearch,java,matlab,ubuntu,bash)
 
 I'm currently learning,
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,elasticsearch,cs,dotnet,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,cs,dotnet,nodejs&theme=dark)](https://skillicons.dev)
 
 The tools I use include,
 
