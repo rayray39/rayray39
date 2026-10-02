@@ -2,6 +2,10 @@
 
 I'm a junior software developer currently working in the industry. I am interested in Web Development💻, Data Engineering📈, and AI🤖.  
 
+### Vibe Coded Projects 
+Product Valley - learn about product thinking concepts as you navigate through a 2D RPG, play the game [here](https://rayray39.github.io/product-valley/) | [Repository](https://github.com/rayray39/product-valley)  
+Find Your MP - find publicly available information about your MPs from different electoral divisions in Singapore, visit the site [here](https://rayray39.github.io/sg-electoral-boundaries/) | [Repository](https://github.com/rayray39/sg-electoral-boundaries)
+
 ### Full-Stack Projects  
 AI-powered LinkedIn post generator - your LinkedIn voice, supercharged by AI, visit the website [here](https://hokkienmee.vercel.app/) | [Repository](https://github.com/rayray39/hokkien-mee)  
 AI-powered git commit message generator - code smarter, commit better, visit the website [here](https://charkwayteow.vercel.app/) | [Repository](https://github.com/rayray39/char-kway-teow)  
@@ -9,8 +13,6 @@ Track and analyze hydration levels for your favourite drinks using Hydrate, visi
 
 [Task Manager Chatbot, Janet](https://github.com/rayray39/ip/releases/tag/A-Release) | [Repository](https://github.com/rayray39/ip) | [User Guide](https://rayray39.github.io/ip/)  
 [SocialBook](https://github.com/AY2425S1-CS2103-F10-2/tp/releases/tag/v1.6) | [Repository](https://github.com/AY2425S1-CS2103-F10-2/tp) | [User Guide](https://ay2425s1-cs2103-f10-2.github.io/tp/)  
-
-A no nonsense Dating Platform with real-time messaging, Peng 💕 | [Repository](https://github.com/rayray39/peng) | [Dev Guide](https://rayray39.github.io/peng/)  
 
 ---
 I'm comfortable working with,  
