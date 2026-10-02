@@ -2,8 +2,6 @@
 
 I'm a junior software developer currently working in the industry. I am interested in Web Development💻, Data Engineering📈, and AI🤖.  
 
-### ✨ Visit my portfolio website [here!](https://rayray39.vercel.app)
-
 ### Full-Stack Projects  
 AI-powered LinkedIn post generator - your LinkedIn voice, supercharged by AI, visit the website [here](https://hokkienmee.vercel.app/) | [Repository](https://github.com/rayray39/hokkien-mee)  
 AI-powered git commit message generator - code smarter, commit better, visit the website [here](https://charkwayteow.vercel.app/) | [Repository](https://github.com/rayray39/char-kway-teow)  
