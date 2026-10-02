@@ -3,8 +3,9 @@
 I'm a junior software developer currently working in the industry. I am interested in Web Development💻, Data Engineering📈, and AI🤖.  
 
 ### Vibe Coded Projects 
+FlyClear SG - drone pre-flight zone & lightning checker — NEA lightning observations + CAAS restricted areas, visit the site [here](https://rayray39.github.io/flyclear-sg/) | [Repository](https://github.com/rayray39/flyclear-sg)
 Product Valley - learn about product thinking concepts as you navigate through a 2D RPG, play the game [here](https://rayray39.github.io/product-valley/) | [Repository](https://github.com/rayray39/product-valley)  
-Find Your MP - find publicly available information about your MPs from different electoral divisions in Singapore, visit the site [here](https://rayray39.github.io/sg-electoral-boundaries/) | [Repository](https://github.com/rayray39/sg-electoral-boundaries)
+FindYourMP SG - publicly available information about your MPs from all electoral divisions, visit the site [here](https://rayray39.github.io/sg-electoral-boundaries/) | [Repository](https://github.com/rayray39/sg-electoral-boundaries)
 
 ### Full-Stack Projects  
 AI-powered LinkedIn post generator - your LinkedIn voice, supercharged by AI, visit the website [here](https://hokkienmee.vercel.app/) | [Repository](https://github.com/rayray39/hokkien-mee)  
